@@ -7,10 +7,11 @@
 中天新闻@@2[1920x1080][20221211], https://epg.pm/stream/15d5158824669ac5103069425eabe55d468492a0df2258d7a119bac6bb7b8d6c.ctv
 now新闻[1920x1080][20221211], https://epg.pm/stream/34c0218c7fe9dfccb4d46019997bafd50800ed99f8d8f59de4c2dcec55729bc3.ctv
 有线新闻@@3[1280x720][20221211], https://epg.pm/stream/ab56086597ed9d0cc56aac6e9c9899f8016284dd7fef8b0c638e8684739f6d9e.ctv
-民視新聞@@2[1280x720][20221211], https://epg.pm/stream/a5f21a954efa2cc856d70bfd04f4b574be605df105253939f56241986f9bdfd8.m3u8
+民視新聞, https://epg.pm/stream/a5f21a954efa2cc856d70bfd04f4b574be605df105253939f56241986f9bdfd8.m3u8
+民視新聞,https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
 洱源新闻[1280x720][20221210], https://epg.pm/stream/6fece3a476f7df3800bf95e8702b01e4f059db41a449560fb2938ff136316795.m3u8
-
-
+台灣生活新聞台,https://lss.line-scdn.net/cc_tw/p/live/htuvxWuk-KlsZbDRLI3k3bDpIazpmOWRfJzBjaTsJIG9iNGhcJDVgPGgId2w0M2RcIGdsb2oHJWJkN2pJd2Y2b2hWIWh4MW0TdGVmI2gHamxkOmwNdm5l/abr.m3u8
+TVBS新聞,https://lss.line-scdn.net/cc_tw/p/live/hUkPJ5N5FC0U9XhVVBUsWclZjVXJAAk5BU1cXJh82VnEUUB1BWQBBd00yV3ETUUhFAwZBJEA6V3xGRk0TAwZDdRwzSnRBHE0RUkpFIkgsVn9AAkwbUA/720/chunklist.m3u8
 電影©頻道,#genre#
 好莱坞电影@@1[1920x1080][20221211], https://epg.pm/stream/b9ff906dcec0ff28bef10c0dc407d3c3884548cbf49661b09593dc0bc60b5f31.ctv
 卫视电影[1920x1080][20221211], https://epg.pm/stream/ea47eec2788ce09380a6c6daa2a2db21fcdbfc0d0c86401f35540e3f7b67a8d9.ctv

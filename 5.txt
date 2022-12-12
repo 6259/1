@@ -60,7 +60,9 @@ TVB翡翠台[720x576][20221208], https://epg.pm/stream/150e562b6472b950462493d08
 无线翡翠台.海外[1280x720][20221206], https://epg.pm/stream/f50e180fcbff5f08db903994c2e80bc9f61f01dcab53e35a3c8da7233775aa6f.ctv
 翡翠台@@3[1920x1080][20221202], https://epg.pm/stream/173d621da8e966c44ca198e6e2d151b0c37155cf15aa88d812f93af99b0d301a.ctv
 翡翠台(备)[1920x1080][20221202], https://epg.pm/stream/240bdb21fd64f9a60fc616ed076d35cca6e6947188785a5986b8f125a19e0af9.ctv
-
+新唐人亞太台[1280x720][20221209], https://epg.pm/stream/46066974f7d40e30ed9ccc9832f588599c71cc551a6089ac120dfb1816704e07.m3u8
+新唐人亞太台@@1[1280x720][20221209], https://epg.pm/stream/6708920d7a5ba32a95e8ac862132c226192f37a0053a4235a379044ee0e4fa48.m3u8
+新唐人大陸台[864x486][20220429], https://epg.pm/stream/716ac934c2f1cb41634e297ccee226cbb18b415a987f663744fb09e3391ffc4b.m3u8
 
 香港台湾©頻道,#genre#
 有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8

@@ -10,13 +10,7 @@ now新闻[1920x1080][20221211], https://epg.pm/stream/34c0218c7fe9dfccb4d4601999
 民視新聞@@2[1280x720][20221211], https://epg.pm/stream/a5f21a954efa2cc856d70bfd04f4b574be605df105253939f56241986f9bdfd8.m3u8
 洱源新闻[1280x720][20221210], https://epg.pm/stream/6fece3a476f7df3800bf95e8702b01e4f059db41a449560fb2938ff136316795.m3u8
 
-民視新聞,http://tv.redrainl.site:9500/live.m3u8?c=01
-三立財經,http://tv.redrainl.site:9500/live.m3u8?c=51
-中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
-中視新聞,http://tv.redrainl.site:9500/live.m3u8?c=02
-台視新聞,http://tv.redrainl.site:9500/live.m3u8?c=11
-寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
-鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
+
 電影©頻道,#genre#
 好莱坞电影@@1[1920x1080][20221211], https://epg.pm/stream/b9ff906dcec0ff28bef10c0dc407d3c3884548cbf49661b09593dc0bc60b5f31.ctv
 卫视电影[1920x1080][20221211], https://epg.pm/stream/ea47eec2788ce09380a6c6daa2a2db21fcdbfc0d0c86401f35540e3f7b67a8d9.ctv
@@ -64,21 +58,9 @@ TVB翡翠台[720x576][20221208], https://epg.pm/stream/150e562b6472b950462493d08
 无线翡翠台.海外[1280x720][20221206], https://epg.pm/stream/f50e180fcbff5f08db903994c2e80bc9f61f01dcab53e35a3c8da7233775aa6f.ctv
 翡翠台@@3[1920x1080][20221202], https://epg.pm/stream/173d621da8e966c44ca198e6e2d151b0c37155cf15aa88d812f93af99b0d301a.ctv
 翡翠台(备)[1920x1080][20221202], https://epg.pm/stream/240bdb21fd64f9a60fc616ed076d35cca6e6947188785a5986b8f125a19e0af9.ctv
-新唐人亞太台[1280x720][20221209], https://epg.pm/stream/46066974f7d40e30ed9ccc9832f588599c71cc551a6089ac120dfb1816704e07.m3u8
-新唐人亞太台@@1[1280x720][20221209], https://epg.pm/stream/6708920d7a5ba32a95e8ac862132c226192f37a0053a4235a379044ee0e4fa48.m3u8
-新唐人大陸台[864x486][20220429], https://epg.pm/stream/716ac934c2f1cb41634e297ccee226cbb18b415a987f663744fb09e3391ffc4b.m3u8
 
-4k©頻道,#genre#
-CCTV16-4K-SDR源[3840x2160][20221210], https://epg.pm/stream/35c3c752dd3f21eb576d1c4d275bca3f46ddb51489e3b07cf82daeeadec7cee6.m3u8
-4K河南[3840x2160][20221210], https://epg.pm/stream/7b5050d78e230da9fdba5a25947e9f7eccb03e923466968900244d6e11da54f5.m3u8
-Astro Super Sport 4K (3)[3840x2160][20221210], https://epg.pm/stream/a22547049d37179ba41b0f456a2baad4bc1526fcc7ce0c2bed88f5d98326237c.ctv
-RMC Sport 4K[3840x2160][20221210], https://epg.pm/stream/ec2a901db6a07ff260576212bb6d7696de65614df12e53527bf2b433d5df37f6.ctv
-TRT 4k[3840x2160][20221210], https://epg.pm/stream/c434e47cbf87e0c09460a20b1a92abc871132fc969e44bc1fe24d207355fb295.m3u8
-咪咕体育-4K-HLG源@@1[3840x2160][20221210], https://epg.pm/stream/d2ab161b229e8d6ce41142b38416be5e474f90eab4dbedc11ecfecafaac54683.m3u8
-抖音4K50P世界杯场次一[3840x2160][20221209], https://epg.pm/stream/c09c641356570875984a43872993c9f4fcaa12dd9a9ebdfe00e94c486c93693f.ctv
-北京BesTV-4K[3840x2160][20221209], https://epg.pm/stream/0ccd577fadc6c575a88d94452a6869f2a7afb6d3d28bcc1c16ab6be58d2113c1.ctv
-beIN Sports 2 4K[1920x1080][20221208], https://epg.pm/stream/e96195bd43786378f2f5e175f4fb7cee58c6a23bd135519964944c0657e41226.ctv
-beIN Sports 1 4K[1920x1080][20221208], https://epg.pm/stream/7b999dbec0baae00396c32a4f16bb1405e696bee76708b8b84c96845bc23bdca.ctv
+
+
 
 
 央视,#genre#

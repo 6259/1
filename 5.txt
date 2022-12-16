@@ -1,18 +1,40 @@
 中文©新闻,#genre#
-广东新闻@@7[1920x1080][20221211], https://epg.pm/stream/5bcb46844b920e1a4febafe6c9fe32d106f15cb9a3f074ce81a5dee09e1be664.m3u8
-广州新闻[1920x1080][20221211], https://epg.pm/stream/cf031a89e908fe833768459bd5ff7c2ccf9182b69e6d1744745d3e7466d6cbfe.ctv
-广州新闻@@3[720x576][20221211], https://epg.pm/stream/f67f1577d0bc44772660ecda4fc1716c2f6716a816dc9b8ae7e5fbf312025883.ctv
 东森新闻, https://epg.pm/stream/3dc3d3023da9f9039fafba12b35f576c5168e47079711af0dbdb9c706d180f46.ctv
-东森新闻, https://lss.line-scdn.net/cc_tw/p/live/hVr8RhaEoCFxURhZMbVMVaz4sUz8pGBxcPRkSPyguBzgpS00OOUtGa3B8B2l7HEwKaU5FbnIsX2stXk4Kax5AbHQrSW0pBE4IOlJGOyA0UW4jG08KMEw/720/chunklist.m3u8
+东森新闻, http://2022.stream-link.org/playlist/ebc_news
 壹新闻[1920x1080][20221211], https://epg.pm/stream/7123b09f9f34d671258924e98a42d014b5ab3f798d2353ff1d3b536f52f6da67.ctv
 中天新闻@@2[1920x1080][20221211], https://epg.pm/stream/15d5158824669ac5103069425eabe55d468492a0df2258d7a119bac6bb7b8d6c.ctv
-now新闻[1920x1080][20221211], https://epg.pm/stream/34c0218c7fe9dfccb4d46019997bafd50800ed99f8d8f59de4c2dcec55729bc3.ctv
-有线新闻@@3[1280x720][20221211], https://epg.pm/stream/ab56086597ed9d0cc56aac6e9c9899f8016284dd7fef8b0c638e8684739f6d9e.ctv
-民視新聞,https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
-民視新聞, https://epg.pm/stream/a5f21a954efa2cc856d70bfd04f4b574be605df105253939f56241986f9bdfd8.m3u8
 洱源新闻[1280x720][20221210], https://epg.pm/stream/6fece3a476f7df3800bf95e8702b01e4f059db41a449560fb2938ff136316795.m3u8
-台灣生活新聞台,https://lss.line-scdn.net/cc_tw/p/live/htuvxWuk-KlsZbDRLI3k3bDpIazpmOWRfJzBjaTsJIG9iNGhcJDVgPGgId2w0M2RcIGdsb2oHJWJkN2pJd2Y2b2hWIWh4MW0TdGVmI2gHamxkOmwNdm5l/abr.m3u8
-TVBS新聞,https://lss.line-scdn.net/cc_tw/p/live/hUkPJ5N5FC0U9XhVVBUsWclZjVXJAAk5BU1cXJh82VnEUUB1BWQBBd00yV3ETUUhFAwZBJEA6V3xGRk0TAwZDdRwzSnRBHE0RUkpFIkgsVn9AAkwbUA/720/chunklist.m3u8
+中天新聞, http://2022.stream-link.org/playlist/cti_news
+TVBS新聞, http://2022.stream-link.org/playlist/tvbs_news
+广东体育, http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+民視新聞, http://2022.stream-link.org/playlist/ftv_news
+民視新聞, http://tv.redrainl.site:9500/live.m3u8?c=01
+三立新聞, http://2022.stream-link.org/playlist/set_news
+三立新聞, http://2022.stream-link.org/playlist/set_news+
+三立財經, http://2022.stream-link.org/playlist/set_inews
+東森財經, http://2022.stream-link.org/playlist/ebc_finance
+中視新聞, http://2022.stream-link.org/playlist/ctv_news
+台視新聞, http://2022.stream-link.org/playlist/ttv_news
+寰宇新聞, http://2022.stream-link.org/playlist/global_news
+中视新闻, http://tv.redrainl.site:9500/live.m3u8?c=2
+有線新聞, http://2022.stream-link.org/playlist/cable_news
+寰宇新闻, http://tv.redrainl.site:9500/live.m3u8?c=22
+有線財經, http://2022.stream-link.org/playlist/cable_finance
+華麗(翡翠)台, http://2022.stream-link.org/playlist/astro_jade
+八度空間, http://2022.stream-link.org/playlist/8tv
+香港開電視, http://2022.stream-link.org/playlist/hoy
+now新聞, http://2022.stream-link.org/playlist/now_news
+Love Nature, http://2022.stream-link.org/playlist/love_nature
+now精選體育, http://2022.stream-link.org/playlist/now_sports
+now財經, http://2022.stream-link.org/playlist/now_finance
+澳門蓮花衛視, http://2022.stream-link.org/playlist/macau_lotustv
+寰宇台灣新聞, http://2022.stream-link.org/playlist/global_tw
+TVBS, http://2022.stream-link.org/playlist/tvbs
+華視天才衝衝衝, http://2022.stream-link.org/playlist/cts_zy
+TVBS精彩台, http://2022.stream-link.org/playlist/tvbs_jc
+中天綜合台, http://2022.stream-link.org/playlist/cti_zh
+三立綜合台, http://2022.stream-link.org/playlist/set_zh
+
 電影©頻道,#genre#
 好莱坞电影@@1[1920x1080][20221211], https://epg.pm/stream/b9ff906dcec0ff28bef10c0dc407d3c3884548cbf49661b09593dc0bc60b5f31.ctv
 卫视电影[1920x1080][20221211], https://epg.pm/stream/ea47eec2788ce09380a6c6daa2a2db21fcdbfc0d0c86401f35540e3f7b67a8d9.ctv
@@ -63,6 +85,9 @@ TVB翡翠台[720x576][20221208], https://epg.pm/stream/150e562b6472b950462493d08
 新唐人亞太台[1280x720][20221209], https://epg.pm/stream/46066974f7d40e30ed9ccc9832f588599c71cc551a6089ac120dfb1816704e07.m3u8
 新唐人亞太台@@1[1280x720][20221209], https://epg.pm/stream/6708920d7a5ba32a95e8ac862132c226192f37a0053a4235a379044ee0e4fa48.m3u8
 新唐人大陸台[864x486][20220429], https://epg.pm/stream/716ac934c2f1cb41634e297ccee226cbb18b415a987f663744fb09e3391ffc4b.m3u8
+香港國際財經台,http://xtv:1292@23.142.200.188:9981/stream/channelid/720885938?ticket=75305746E59E5045CB0BB985A08DE71551599632&profile=pass
+香港開電視,http://xtv:1292@23.142.200.188:9981/stream/channelid/1421257512?ticket=D8B4B8996AE5EDB9542DAE627B78B7AF3F9B1F8D&profile=pass
+J2,http://xtv:1292@23.142.200.188:9981/stream/channelid/1070095364?ticket=7C7578D9E1E0D1BD0007E376C212E97C3DEE8D62&profile=pass
 
 香港台湾©頻道,#genre#
 有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8

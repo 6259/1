@@ -46,49 +46,99 @@ TVBS精彩台, http://2022.stream-link.org/playlist/tvbs_jc
 东森电影台@@11[1920x1080][20221209], https://epg.pm/stream/72d08aabd0de7d89e45b983cff9ab7a77f918894050d6f599ec8ebf4680caf56.m3u8
 影迷数位电影台[1280x720][20221209], https://epg.pm/stream/741e06b831d538b49445af8afa10282e556176b8ba79025d0b45cdce20e47fa5.m3u8
 靖天电影台[1280x720][20221209], https://epg.pm/stream/9fa6de2761cb2aaac866db385868a1c4a4b1897e62dd7686d6cda9aa23936172.m3u8
-东森©頻道,#genre#
-东森新闻@@1[1920x1080][20221211], https://epg.pm/stream/3dc3d3023da9f9039fafba12b35f576c5168e47079711af0dbdb9c706d180f46.ctv
-東森財經[1280x720][20221211], https://epg.pm/stream/6e7a99631465514798ec3c61b5c4888aa5aa001c7cb674e4a8034fac2bd95a6d.m3u8
-[TW]东森超视[1920x1080][20221210], https://epg.pm/stream/397fbfbb31434878c9e6ca74fa4a0d6c4d97dd320244283f9e838439d40b4dc7.m3u8
-[TW]东森戏剧[1920x1080][20221210], https://epg.pm/stream/d5f1862e0f9c9d6e82253455139164c96c7736c2b2f8776e23c88e7c436c0ab3.m3u8
-东森LIVE[1280x720][20221210], https://epg.pm/stream/badcae8933643c712800bfa596258c9263cc53bff954f8e6436b9146ae760cbb.m3u8
-东森LIVE@@1[1280x720][20221210], https://epg.pm/stream/0ce9109e8f157bae97c0119a1e1b310a924eadb310d19adf4b59816286d941e3.m3u8
-东森财经[1920x1080][20221210], https://epg.pm/stream/250517591159ee203bea39202d1b93dbf11461515d83e586fa276481b86e1a64.m3u8
-东森财经新闻[1280x720][20221210], https://epg.pm/stream/1f7eb817eaf060615749dfb6c6af8b75b0f848acf6cb38bc334a1886df6a909d.m3u8
-东森电影台@@11[1920x1080][20221209], https://epg.pm/stream/72d08aabd0de7d89e45b983cff9ab7a77f918894050d6f599ec8ebf4680caf56.m3u8
-东森洋片台@@5[1920x1080][20221209], https://epg.pm/stream/4bc91ab1742f3818037e2ab6e6a036f8ff88d9505d7c1ff67f74d9d3f07e454f.m3u8
-
-now©頻道,#genre#
-now体育[3840x2160][20221211], https://epg.pm/stream/581002b7a91af701624438e97f10c888230d08c0a67dc6638bc31fcfbfe27e2e.m3u8
-now sport[1280x720][20221211], https://epg.pm/stream/77d5f23076c4ba3738df0950753aca643c3a213e571e07b848b43f06bcf6999f.ctv
-now新闻[1920x1080][20221211], https://epg.pm/stream/34c0218c7fe9dfccb4d46019997bafd50800ed99f8d8f59de4c2dcec55729bc3.ctv
-now财经[1280x720][20221211], https://epg.pm/stream/21b42bb4ec86e68841f1da8d87b5eb42b304db46b95097a75b23be9536ad1f83.ctv
-now直播[1280x720][20221211], https://epg.pm/stream/6d80ab5de43ffa8fe549c931f41b900eed9df80d80e266a604361a378550d24c.ctv
-now直播台[1280x720][20221210], https://epg.pm/stream/972525620957219720242fc05a27aa07bab87150c5b2ded334771b2f77644078.ctv
-NBC NEWS NOW[1920x1080][20221209], https://epg.pm/stream/848eb4b20454bab851cf2a10c56493952ab31c964908a1e32c386130ab77d1ee.m3u8
-Dens LEARNING&KNOWLEDGE[960x540][20221209], https://epg.pm/stream/8a93da4c485dbc857700c11e87d9003609067d0979ad34f5311700f1bb648557.m3u8
-now新闻台@@2[1920x1080][20221209], https://epg.pm/stream/f8249bc5a4334b2cb56ed4e01f0b96e65301f57220d196e57bdafad423933136.m3u8
-now直播台@@1[1280x720][20221209], https://epg.pm/stream/5622be3e1840f4466dc5ca6c6bf5b05f494ed53c0708b6285590d0d1e97c9b89.m3u8
-
-
-翡翠台唐人©頻道,#genre#
-翡翠台@@4[1920x1080][20221211], https://epg.pm/stream/b2b1cd4618d18e239ed2facfd57fd46e53a720a0f5bc1c31ddff393ff0eb5b0d.m3u8
-[HK]翡翠台[1920x1080][20221210], https://epg.pm/stream/f3230c8735b737c8c972d0ee35aa6348c75bec1518403871009170d9d81e083a.m3u8
+奥斯卡获奖作品[1280x720][aacxh264][geo-limited], http://epg.112114.xyz/douyu/3811092
+科幻系列 硬核浪漫[1104x622][textxaacxh264][geo-limited], http://epg.112114.xyz/huya/11352895
+翡翠台©頻道,#genre#
+華麗(翡翠)台[1280x720][20221216], https://epg.pm/stream/f7e81dba9e46a45975bc7134d6bc910317baf2d95ac83222b9d1d1c937263850.ctv
+翡翠台[1280x720][20221216], https://epg.pm/stream/83c280e4a77db02fca8031cdb3b158b44c537763ccea43ed071321329e61b3c7.m3u8
+翡翠华丽[1280x720][20221213], https://epg.pm/stream/7a21989cc3c4c6e33e675af0bb46659810942fe177215a4909709c0482ba74c8.ctv
 翡翠台HD@@1[1920x1080][20221208], https://epg.pm/stream/984112fc8076eee126520c872bb8669caa354c386b154ba50e39468a9216a549.ctv
 TVB翡翠台[720x576][20221208], https://epg.pm/stream/150e562b6472b950462493d088f1cd3c294052aedd5a1aede1b93dbf7d67abab.m3u8
-翡翠台@@2[1920x1080][20221208], https://epg.pm/stream/f0e9a1e808cda5a15d4f49dc2fd80fac4fe00bc36e80f370e35a529b250854c5.m3u8
 翡翠台(备)@@1[1280x720][20221208], https://epg.pm/stream/c9cd8624162654fdfed545eba2f27e3bb2752c84d133217e9d02f918fd28fc7b.ctv
 翡翠台HD[1920x1080][20221208], https://epg.pm/stream/82840ec8f5f57e7055b54b033657b01245cb854aaf58fccfccfffae3f9c61577.ctv
 无线翡翠台.海外[1280x720][20221206], https://epg.pm/stream/f50e180fcbff5f08db903994c2e80bc9f61f01dcab53e35a3c8da7233775aa6f.ctv
+TVB翡翠[1920x1080][20221204], https://epg.pm/stream/af67fbd83379ee448ca3306b6ed72ff29b30c075c57598b6c6253b4ac6bd1a1b.m3u8
 翡翠台@@3[1920x1080][20221202], https://epg.pm/stream/173d621da8e966c44ca198e6e2d151b0c37155cf15aa88d812f93af99b0d301a.ctv
-翡翠台(备)[1920x1080][20221202], https://epg.pm/stream/240bdb21fd64f9a60fc616ed076d35cca6e6947188785a5986b8f125a19e0af9.ctv
-新唐人亞太台[1280x720][20221209], https://epg.pm/stream/46066974f7d40e30ed9ccc9832f588599c71cc551a6089ac120dfb1816704e07.m3u8
-新唐人亞太台@@1[1280x720][20221209], https://epg.pm/stream/6708920d7a5ba32a95e8ac862132c226192f37a0053a4235a379044ee0e4fa48.m3u8
-新唐人大陸台[864x486][20220429], https://epg.pm/stream/716ac934c2f1cb41634e297ccee226cbb18b415a987f663744fb09e3391ffc4b.m3u8
+
+博斯[720x480]©頻道,#genre#
+運通財經, https://315600.xyz/hatv.php?id=97
+非凡商業, https://315600.xyz/hatv.php?id=95
+FOX頻道, https://315600.xyz/hatv.php?id=100
+霹靂臺灣, https://315600.xyz/hatv.php?id=99
+十方法界, https://315600.xyz/hatv.php?id=102
+華藏衛星, https://315600.xyz/hatv.php?id=103
+八大娛樂, https://315600.xyz/hatv.php?id=106
+佛衛電視慈悲, https://315600.xyz/hatv.php?id=105
+NHK, https://315600.xyz/hatv.php?id=108
+唯心電視, https://315600.xyz/hatv.php?id=107
+ANIMAX, https://315600.xyz/hatv.php?id=109
+衛視閤家歡, https://315600.xyz/hatv.php?id=113
+大愛二, https://315600.xyz/hatv.php?id=121
+台視新聞, https://315600.xyz/hatv.php?id=155
+民視第一, https://315600.xyz/hatv.php?id=151
+Discovery Asia, https://315600.xyz/hatv.php?id=200
+BBC World News, https://315600.xyz/hatv.php?id=164
+Channel News Asia, https://315600.xyz/hatv.php?id=165
+亞洲美食, https://315600.xyz/hatv.php?id=211
+DREAMWORKS, https://315600.xyz/hatv.php?id=207
+BBC Lifestyle, https://315600.xyz/hatv.php?id=214
+EVE, https://315600.xyz/hatv.php?id=215
+DMAX, https://315600.xyz/hatv.php?id=202
+Discovery 科學頻道, https://315600.xyz/hatv.php?id=201
+HBO, https://315600.xyz/hatv.php?id=220
+HBOSignature, https://315600.xyz/hatv.php?id=221
+HBOHits, https://315600.xyz/hatv.php?id=223
+HBOFamily, https://315600.xyz/hatv.php?id=222
+博斯高球1, https://315600.xyz/hatv.php?id=242
+博斯網球網, https://315600.xyz/hatv.php?id=243
+博斯運動2, https://315600.xyz/hatv.php?id=244
+博斯高球2, https://315600.xyz/hatv.php?id=245
+松視1臺, https://315600.xyz/hatv.php?id=405
+松視2臺, https://315600.xyz/hatv.php?id=406
+
+
+
+数字J©頻道,#genre#
+
+电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+动漫秀场,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+动作电影 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+法治天地,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
+风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑莓电影,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+黑莓动画,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+纪实人文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
+家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+金色学堂,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
+金鹰卡通,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
+快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+乐游频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+芒果独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+芒果华语,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+芒果欧美,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+芒果综艺,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+新华英文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
+新华中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
+央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+
 香港國際財經台,http://xtv:1292@23.142.200.188:9981/stream/channelid/720885938?ticket=75305746E59E5045CB0BB985A08DE71551599632&profile=pass
 香港開電視,http://xtv:1292@23.142.200.188:9981/stream/channelid/1421257512?ticket=D8B4B8996AE5EDB9542DAE627B78B7AF3F9B1F8D&profile=pass
 J2,http://xtv:1292@23.142.200.188:9981/stream/channelid/1070095364?ticket=7C7578D9E1E0D1BD0007E376C212E97C3DEE8D62&profile=pass
-
+ViuTV,https://epg.pm/stream/efee199b019b462f05e9172db9e7a7c4772bbac1a9b15d2d484c3dd7a3cc9617.m3u8
 香港台湾©頻道,#genre#
 有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8

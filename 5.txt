@@ -41,6 +41,7 @@ FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 中天新闻台,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 东森财经新闻,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 有线财经台,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有线财经台,https://api.leonardpark.dev/live/icable/108
@@ -231,14 +232,26 @@ NewTV热播精选,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.
 
 
 
-数字J©頻道,#genre#
-
-
-
-
+J音乐©頻道,#genre#
 香港國際財經台,http://xtv:1292@23.142.200.188:9981/stream/channelid/720885938?ticket=75305746E59E5045CB0BB985A08DE71551599632&profile=pass
 香港開電視,http://xtv:1292@23.142.200.188:9981/stream/channelid/1421257512?ticket=D8B4B8996AE5EDB9542DAE627B78B7AF3F9B1F8D&profile=pass
 J2,http://xtv:1292@23.142.200.188:9981/stream/channelid/1070095364?ticket=7C7578D9E1E0D1BD0007E376C212E97C3DEE8D62&profile=pass
+
+催眠音乐[1280x720][20221208], https://epg.pm/stream/b0817d8cf741760b3264007212327f65e77403a537c1d3f4889ceac6e33c5553.ctv
+GoodTV 经典音乐[1280x720][20221121], https://epg.pm/stream/6e2412fb21f10a4dbe41bc377e9e650d3f2844022d0e95d56395a6dddcb56934.m3u8
+GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7][1280x720][20221121], https://epg.pm/stream/c98428fbca6c4a421b011b0e4b9b1c84e103f6df83eb4d10cbc3e83e9007d9f6.m3u8
+GOOD TV CH29 經典音樂河 (720p) [Not 24/7][1280x720][20221119], https://epg.pm/stream/87d0cb70dccabe8b41c9892748b7957641d04aaaf50425053de300600a1365c0.m3u8
+GOOD TV CH31 福音佈道音樂會 (720p)[1280x720][20221119], https://epg.pm/stream/d035a8b9d5c1e02b2af9042137f7f28c37cddb545be1bbeac0623099c03ccb48.m3u8
+中文音乐[1920x1080][20221115], https://epg.pm/stream/8e334ccbf50396e408605694895094425aed62ae7c1ab531cbfabe33a9d8fe3e.m3u8
+Mundo de la Música , https://epg.pm/stream/13c651e61ed0ba7113c60877b5e9aaf164dc8c4e8eaf171da4d75df4673b9600.m3u8
+Music JapanTV  , https://epg.pm/stream/9895bd35d21c11e6409a49c6791ab9e5413c46dee58173d9b4cf3777208b3041.ctv
+Music ON TV! , https://epg.pm/stream/1a3bea7fc0fcc79c931dfa14416f687ece073b0836abeafc7760db44f6c291bc.m3u8
+8XM MUSIC, https://epg.pm/stream/1dbc68f9359ab823f256ad35a7c10b49fb2d5c1938813707b2632bd4f1af3991.m3u8
+Jhanjar Music[1920x1080][20221202], https://epg.pm/stream/78910dda14c1dce417494ae344aad06430dddbe7919fc6a61f61c81c1707ceda.m3u8
+Baraza TV Greek Music Hits[1920x1080][20221202], https://epg.pm/stream/7aec22c3239660111b50fd92a0de9470d0f456802b041144a69051a56dc31a05.m3u8
+B4U Music@@1[720x576][20221202], https://epg.pm/stream/a7c50fad0e5c97ce77abc51c24857fcb75b4fc697f345b8493e2bd68a86be350.m3u8
+Local Now Music[384x216][20221202], https://epg.pm/stream/6eeae82aa6934649e38f8c709d67497591b52a2d449734cd2a0494704cdccc88.m3u8
+RETRO MUSIC TV[640x360][20221202], https://epg.pm/stream/571ecd8402c1141a89fa5fbc7895f5f6cc46d9dddadbbfe1f0987e17837c2596.m3u8
 
 香港台湾©頻道,#genre#
 有线直播台,https://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8

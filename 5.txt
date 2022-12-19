@@ -42,8 +42,8 @@ FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 东森新闻台,https://epg.pm/stream/b1c15f020cb14db85ac1d8994b22604f0c8ee4810696ec17d183ccac06c9728b.m3u8
-东森新闻台,https://epg.pm/stream/b9333e3647786f617d45571415ce60709fa275be9a8cc01751b250aa35fa26fd.m3u8
 东森财经新闻,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+东森财经新闻,https://epg.pm/stream/544273aaed49fb7549a8fcaf013adfea3e6d4b4a26643e1021de27f0605ab25c.m3u8
 有线财经台,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 有线财经台,https://api.leonardpark.dev/live/icable/108
 有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
@@ -897,169 +897,9 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 百视TV13,http://tvmvip110.club/bs.php?id=228
 百视TV14,http://tvmvip110.club/bs.php?id=246
 时光,#genre#
-i-Fun动漫台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-ftv15&hd=720
 
-CN卡通[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live205&hd=720
 
-达文西频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv018&hd=720
 
-靖洋卡通Nice Bingo[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv057&hd=720
-
-Nick Jr. 儿童频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live032&hd=720
-
-MOMO亲子台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live107&hd=720
-
-ELTV生活英语台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn20&hd=720
-
-精选动漫台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live024&hd=720
-
-靖天卡通台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv044&hd=720
-
-尼克儿童频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live105&hd=720
-
-经典卡通台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live022&hd=720
-
-华视新闻[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv052&hd=720
-
-CNBC Asia 财经台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live130&hd=720
-
-镜电视新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv075&hd=720
-
-中视新闻[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv074&hd=720
-
-CNN头条新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live203&hd=720
-
-三立财经新闻iNEWS[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live089&hd=720
-
-中天新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv009&hd=720
-
-DW德国之声[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live071&hd=720
-
-东森财经新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live019&hd=720
-
-TVBS[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv073&hd=720
-
-东森新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live114&hd=720
-
-寰宇新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn14&hd=720
-
-民视新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-ftv13&hd=720
-
-VOA美国之音[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-ftv03&hd=720
-
-CNN国际新闻台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live204&hd=720
-
-SBN全球财经台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live060&hd=720
-
-CLASSICA 古典乐[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv059&hd=720
-
-猪哥亮歌厅秀[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv006&hd=720
-
-中天全民最大党[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live076&hd=720
-
-民视综艺台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv004&hd=720
-
-TVBS欢乐台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv068&hd=720
-
-靖天育乐台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv062&hd=720
-
-韩国娱乐台 KMTV[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv016&hd=720
-
-Lifetime 娱乐频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live029&hd=720
-
-华语综艺台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live006&hd=720
-
-靖天日本台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv047&hd=720
-
-Mezzo Live HD[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv083&hd=720
-
-电影原声台CMusic[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live031&hd=720
-
-TRACE Urban[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv082&hd=720
-
-MTV Live HD 音乐频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live025&hd=720
-
-Nice TV 靖天欢乐台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv054&hd=720
-KLT-靖天国际台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv063&hd=720
-
-靖天资讯台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv065&hd=720
-
-Pet Club TV[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live110&hd=720
-
-博斯高球台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn05&hd=720
-
-车迷TV[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live201&hd=720
-
-智林体育台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv101&hd=720
-TRACE Sport Stars[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv077&hd=720
-
-博斯无限台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn10&hd=720
-
-龙华戏剧台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn18&hd=720
-
-影迷数位纪实台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live023&hd=720
-
-CATCHPLAY Beyond[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live155&hd=720
-
-amc最爱电影[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv017&hd=720
-
-视纳华仁纪实频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv013&hd=720
-
-华语戏剧台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live005&hd=720
-
-八大精彩台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv034&hd=720
-
-经典电影台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live021&hd=720
-
-采昌影剧台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv049&hd=720
-
-影迷数位电影台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv011&hd=720
-
-靖天映画[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv055&hd=720
-
-靖洋戏剧台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv045&hd=720
-
-民视影剧台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-ftv09&hd=720
-
-龙华电影台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn03&hd=720
-
-CATCHPLAY电影台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv076&hd=720
-
-金光布袋戏[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live144&hd=720
-
-靖天戏剧台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv058&hd=720
-
-龙华日韩台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=litv-longturn11&hd=720
-
-靖天电影台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv061&hd=720
-
-My Cinema Europe HD 我的欧洲电影[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live157&hd=720
-
-CinemaWorld[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live069&hd=720
-
-公视戏剧[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv042&hd=720
-
-HITS频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live620&hd=720
-
-国会频道2[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv085&hd=720
-
-国会频道1[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv084&hd=720
-
-TVBS精采台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live086&hd=720
-
-ARIRANG阿里郎频道[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv079&hd=720
-
-八大综艺台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv039&hd=720
-
-中视[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv040&hd=720
-
-靖天综合台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv046&hd=720
-
-中天综合台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live033&hd=720
-
-客家电视台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-4gtv043&hd=720
-
-新唐人亚太台[1280x720][h264xaac], http://8.218.112.221:8080/channel2.m3u8?fid=4gtv-live050&hd=720
 
 港澳台,#genre#
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8

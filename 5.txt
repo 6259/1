@@ -9,7 +9,7 @@
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-无线新闻台,http://livetv.dnsfor.me:80/channel.10.m3u8
+
 广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -18,35 +18,22 @@
 ABC新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 CNA亚洲新闻-01,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻-02,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA亚洲新闻-03,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA亚洲新闻-04,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 KBS 国际频道-01,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CCTV-13 新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8?blog.ntnas.top
-CCTV-13 新闻,http://124.220.17.172/as.php?id=13
-CCTV-13 新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-CCTV-13 新闻,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
-CCTV-13 新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13 新闻,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8
 日语新闻台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 美国中文台,https://jpts.sinovision.net/livestream.m3u8
 美国卫视台,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+纬来戏剧,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 中视新闻台,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-中视新闻台,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-中视新闻台,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中视新闻台,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 中天新闻台,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 中天娱乐台,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
-东森财经新闻,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-东森财经新闻,https://epg.pm/stream/544273aaed49fb7549a8fcaf013adfea3e6d4b4a26643e1021de27f0605ab25c.m3u8
-有线财经台,https://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-有线财经台,https://api.leonardpark.dev/live/icable/108
-有线新闻台,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-有线新闻台,https://api.leonardpark.dev/live/icable/110
 华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 上海新闻综合,http://tvmvip110.club/bs.php?id=20
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
@@ -54,13 +41,6 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0c
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-非凡新闻,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新闻,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-年代新闻台,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新闻台,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-
-云林新闻网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
@@ -137,20 +117,6 @@ GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 明珠台,http://59.149.114.27:9981/stream/channelid/331671822?profile=matroska
 明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-香港有線直播新聞台,https://api.leonardpark.dev/live/icable/110
-香港有線財經資訊台,https://api.leonardpark.dev/live/icable/108
-香港有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-香港有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港開(HOY)電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-香港開(HOY)電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港開(HOY)電視,http://livetv.dnsfor.me/channel.9.m3u8
-香港開(HOY)電視,http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
-香港衛視,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-香港衛視,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-香港衛視,http://124.238.99.44:808/hls/352/index.m3u8
 香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 財經體育資訊台,http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/j5_twn/playlist.m3u8
@@ -167,8 +133,7 @@ GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 財經體育資訊台,https://j3.lhlh.app/mv.m3u8
 財經體育資訊台,http://59.149.114.27:9981/stream/channelid/795359597?profile=matroska
 財經體育資訊台,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
-無線新聞台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
-無線新聞台,http://tvmvip110.club/tvb.php?id=0
+
 無線新聞台,http://tvmvip110.club/tvb.php?id=1
 無線新聞台,http://tvmvip110.club/tvb.php?id=4
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news

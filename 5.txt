@@ -9,7 +9,6 @@
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-
 广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -46,6 +45,73 @@ TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0c
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
 舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
+东森©頻道,#genre#
+台視HD,http://154.216.191.59/iptv/tw222.php?id=1
+中視HD,http://154.216.191.59/iptv/tw222.php?id=2
+華視HD,http://154.216.191.59/iptv/tw222.php?id=3
+民視HD,http://154.216.191.59/iptv/tw222.php?id=4
+公視,http://154.216.191.59/iptv/tw222.php?id=5
+人間衛視,http://154.216.191.59/iptv/tw222.php?id=6
+大愛電視,http://154.216.191.59/iptv/tw222.php?id=7
+好消息頻道,http://154.216.191.59/iptv/tw222.php?id=8
+國家地理HD,http://154.216.191.59/iptv/tw222.php?id=9
+DISCOVERY,http://154.216.191.59/iptv/tw222.php?id=10
+旅遊生活,http://154.216.191.59/iptv/tw222.php?id=11
+動物星球,http://154.216.191.59/iptv/tw222.php?id=12
+亞洲旅遊,http://154.216.191.59/iptv/tw222.php?id=13
+Baby TV,http://154.216.191.59/iptv/tw222.php?id=14
+東森幼幼HD,http://154.216.191.59/iptv/tw222.php?id=15
+龍華卡通台,http://154.216.191.59/iptv/tw222.php?id=17
+緯來綜合HD,http://154.216.191.59/iptv/tw222.php?id=18
+八大第一HD,http://154.216.191.59/iptv/tw222.php?id=19
+八大綜合HD,http://154.216.191.59/iptv/tw222.php?id=20
+三立台灣HD,http://154.216.191.59/iptv/tw222.php?id=21
+三立都會HD,http://154.216.191.59/iptv/tw222.php?id=22
+衛視中文HD,http://154.216.191.59/iptv/tw222.php?id=23
+東森綜合HD,,http://154.216.191.59/iptv/tw222.php?id=24
+超視HD,http://154.216.191.59/iptv/tw222.php?id=25
+中天綜合HD,http://154.216.191.59/iptv/tw222.php?id=26
+中天娛樂HD,http://154.216.191.59/iptv/tw222.php?id=27
+東風衛視,http://154.216.191.59/iptv/tw222.php?id=28
+MUCH TV,http://154.216.191.59/iptv/tw222.php?id=29
+東森戲劇HD,http://154.216.191.59/iptv/tw222.php?id=30
+八大戲劇HD,http://154.216.191.59/iptv/tw222.php?id=31
+TVBS欢乐,http://154.216.191.59/iptv/tw222.php?id=32
+緯來戲劇,http://154.216.191.59/iptv/tw222.php?id=33
+龍華戲劇台,http://154.216.191.59/iptv/tw222.php?id=34
+龍華日韓劇,http://154.216.191.59/iptv/tw222.php?id=35
+龍華偶像劇,http://154.216.191.59/iptv/tw222.php?id=36
+緯來日本HD,http://154.216.191.59/iptv/tw222.php?id=37
+華視新聞資訊台,http://154.216.191.59/iptv/tw222.php?id=38
+年代新聞HD,http://154.216.191.59/iptv/tw222.php?id=39
+東森新聞HD,http://154.216.191.59/iptv/tw222.php?id=40
+中天新聞HD,http://154.216.191.59/iptv/tw222.php?id=41
+民視新聞HD,http://154.216.191.59/iptv/tw222.php?id=42
+三立新聞HD,http://154.216.191.59/iptv/tw222.php?id=43
+TVBS新闻,http://154.216.191.59/iptv/tw222.php?id=44
+TVBS,http://154.216.191.59/iptv/tw222.php?id=45
+非凡新闻,http://154.216.191.59/iptv/tw222.php?id=46
+非凡商业,http://154.216.191.59/iptv/tw222.php?id=47
+东森财经,http://154.216.191.59/iptv/tw222.php?id=48
+寰宇新闻,http://154.216.191.59/iptv/tw222.php?id=49
+壹新闻,http://154.216.191.59/iptv/tw222.php?id=50
+CNBC,http://154.216.191.59/iptv/tw222.php?id=51
+Bloomberg News,http://154.216.191.59/iptv/tw222.php?id=52
+NHK,http://154.216.191.59/iptv/tw222.php?id=53
+卫视电影台,http://154.216.191.59/iptv/tw222.php?id=54
+好莱坞电影,http://154.216.191.59/iptv/tw222.php?id=55
+纬来电影,http://154.216.191.59/iptv/tw222.php?id=56
+龙华电影,http://154.216.191.59/iptv/tw222.php?id=57
+HBO,http://154.216.191.59/iptv/tw222.php?id=58
+AXN,http://154.216.191.59/iptv/tw222.php?id=59
+CINEMAX,http://154.216.191.59/iptv/tw222.php?id=60
+star movie,http://154.216.191.59/iptv/tw222.php?id=61
+star world,http://154.216.191.59/iptv/tw222.php?id=62
+纬来育乐,http://154.216.191.59/iptv/tw222.php?id=63
+纬来体育,http://154.216.191.59/iptv/tw222.php?id=64
+博斯运动,http://154.216.191.59/iptv/tw222.php?id=65
+MOMo综合,http://154.216.191.59/iptv/tw222.php?id=66
+
 
 電影©頻道,#genre#
 好莱坞电影@@1[1920x1080][20221211], https://epg.pm/stream/b9ff906dcec0ff28bef10c0dc407d3c3884548cbf49661b09593dc0bc60b5f31.ctv

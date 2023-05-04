@@ -1,47 +1,68 @@
-中文?新闻,#genre#
-凤凰中文[1280x720],http://2022.stream-link.org/live/58079722
-凤凰资讯[1280x720],http://2022.stream-link.org/live/433059615
-无线新闻[1920x1080],http://2022.stream-link.org/live/1511624341
-无线财经体育资讯[1920x1080],http://2022.stream-link.org/live/1652644142
-有线新闻[1280x720],http://2022.stream-link.org/live/954568378
-有线财经资讯[1280x720],http://2022.stream-link.org/live/470396193
-翡翠台[1280x720],http://2022.stream-link.org/live/1008470469
-翡翠(华丽)台[1280x720],http://2022.stream-link.org/live/272717429
-香港开电视[1920x1080],http://2022.stream-link.org/live/2067048623
-香港开电视资讯[1920x1080],http://2022.stream-link.org/live/1288486992
-香港国际财经[1920x1080],http://2022.stream-link.org/live/88795256
-八度空间[1280x720],http://2022.stream-link.org/live/1759844466
-港台电视31[1920x1080],http://2022.stream-link.org/live/1907172462
-港台电视32[1920x1080],http://2022.stream-link.org/live/2012355985
-J2[1920x1080],http://2022.stream-link.org/live/47349357
-东森新闻[1920x1080],http://2023.stream-link.org/live/256467434
-东森财经新闻[1920x1080],http://2023.stream-link.org/live/1562729921
-华视新闻[1920x1080],http://2023.stream-link.org/live/924948281
-中天新闻[1920x1080],http://2023.stream-link.org/live/2072341054
-中视新闻[1920x1080],http://2023.stream-link.org/live/926790469
-民视新闻[1920x1080],http://2023.stream-link.org/live/1536981751
-寰宇国际新闻[1920x1080],http://2023.stream-link.org/live/187458082
-寰宇台湾新闻[1920x1080],http://2023.stream-link.org/live/1666533776
-三立财经新闻[1920x1080],http://2023.stream-link.org/live/2044630364
-三立新闻[1920x1080],http://2023.stream-link.org/live/779328641
-三立新闻+[1920x1080],http://2023.stream-link.org/live/2068259502
-台视新闻[1920x1080],http://2023.stream-link.org/live/1660463420
-TVBS新闻[1920x1080],http://2023.stream-link.org/live/2051588601
-TVBS财经[1920x1080],http://2023.stream-link.org/live/1767909787
-中天综合台[1280x720],http://2023.stream-link.org/live/661595652
-中天亚洲台[1920x1080],http://2023.stream-link.org/live/1133505187
-台视[1920x1080],http://2023.stream-link.org/live/1558743392
-天才冲冲冲[1920x1080],http://2023.stream-link.org/live/623892102
-东森yoyo[1280x720],http://2023.stream-link.org/live/638555913
-ABCNewsAustralia[1280x720],http://2022.stream-link.org/live/645099591
-ABCNews[1280x720],http://2022.stream-link.org/live/710359798
-ANNNews[1920x1080],http://2022.stream-link.org/live/1585508198
-AsianetNews[1920x1080],http://2022.stream-link.org/live/1739620011
-CNANews[1920x1080],http://2022.stream-link.org/live/2135385649
-DWNews[1920x1080],http://2022.stream-link.org/live/1661703846
-EURONews[1280x720],http://2022.stream-link.org/live/80100740
-France24English[1920x1080],http://2022.stream-link.org/live/501639753
-GBNews[1920x1080],http://2022.stream-link.org/live/724664981
-HaberTurk[1920x1080],http://2022.stream-link.org/live/921630432
-NBCNews[1920x1080],http://2022.stream-link.org/live/466521866
-SKYNews[1920x1080],http://2022.stream-link.org/live/1734121956
+動畫,#genre#
+MOMO親子臺,https://epg.pw/stream/8a28cbc6f8a1d371429330cb5f986471f76b615c5181872e0377a5d47dea37ce.m3u8
+東森幼幼,https://epg.pw/stream/8dfba96bc982678318317e64a171da760c42ff4509d786be4a7391398301e296.m3u8
+東森幼幼[geo-blocked],https://epg.pw/stream/12f0b9dbc6cffa16c003d1035c70aefff0e8b4c122fd97e30ce61ef99f931bc9.ctv
+紀實,#genre#
+DISCOVERY Channel,https://epg.pw/stream/8142b8ba70919062ecde03c465a672b1f46fb6668c4c07e507d4a74457ae98b6.m3u8
+DISCOVERY Channel[geo-blocked],https://epg.pw/stream/47c9ff36b05dc754a7c49bf4355709658c6f068e2197c6dcb0a8762ce8e30784.ctv
+DISCOVERY Channel,https://epg.pw/stream/aeefca763801a32eb52a3050d8df50f46edb8fb745dfa820ab75edf8cce54a07.ctv
+DISCOVERY Channel,https://epg.pw/stream/c50c622648024d895e8e37cb5842567b48b814035109bae15af4f7766a09c53f.ctv
+DISCOVERY Channel,https://epg.pw/stream/984704dc4ac5af6d980b42d21fa67d275383fcf438d7bc5511dcb745152360c7.ctv
+DISCOVERY Channel,https://epg.pw/stream/dec59a0fc11ad78f46b450aef2daba694535e5463de47827ac0c35c4a01c6e16.ctv
+DISCOVERY Channel,https://epg.pw/stream/f8f8d5034f720ce4271043710610904966b7ccc769a14c85abcd00591ffa8a4e.ctv
+DISCOVERY Channel[geo-blocked],https://epg.pw/stream/653a15ef6b2420b0021a03797ebd241c4c9d8eca587fb1c85ca541ef84126315.ctv
+DISCOVERY Channel[geo-blocked],https://epg.pw/stream/d392ba68bdfb1b311b244bf23be7b9c811027801105e2a394a989e54ddcea3c6.ctv
+DISCOVERY Channel,https://epg.pw/stream/0e3326103788f49b7426526f1f56a1a44b940e7fd8b912796a47c7d2d98394f1.ctv
+DISCOVERY Channel,https://epg.pw/stream/03ebf56bfa00d5de40bb02596dfb7f30c708bcaa967155cf8fbc0047f9515b48.ctv
+DISCOVERY Channel[geo-blocked],https://epg.pw/stream/b4e4bf782ecd94ae33e7de25ac48d749d42f02a04c6e62d713e55240a3963076.m3u8
+DISCOVERY Channel,https://epg.pw/stream/434fabef35c9e5c7bba48c0d5cd3d985da99e43afeb3ee87908d748dfb4d0f2d.ctv
+DISCOVERY Channel,https://epg.pw/stream/6678b8caeb91b2bdaf75f3354da62a6b9c689c817e3853fdcf4edd34c23373fc.ctv
+DISCOVERY Channel,https://epg.pw/stream/a2144aafb958c4bb3589f9df6024beda5c6263fbbc13a5533b3c6ee080aafde4.ctv
+DISCOVERY Channel,https://epg.pw/stream/d8468309472c9d417a81bcb316423dc950e73b236c761ad1a84a4c5ec77b8ddf.ctv
+DISCOVERY Channel[geo-blocked],https://epg.pw/stream/647c29c5e7ea72f4ddca27e9b35a80c378320a31dd63c83635a1e4dc9563f36c.m3u8
+DISCOVERY Channel,https://epg.pw/stream/a0091ae379d6f4fcdf0df6615bcfe15750b8a5de46e53eecac3f550436731939.ctv
+DISCOVERY Channel,https://epg.pw/stream/ac8ed45aef41c39f9052b9b8a21954c6b7188c3b62e726cafd76f57202ef056b.ctv
+DISCOVERY Channel,https://epg.pw/stream/5e446e40c0dac9ccf636eef0c2e9f21b3fa93ebd635570d0c296be69a2362025.ctv
+DISCOVERY HD WORLD,https://epg.pw/stream/1bc64c555d73d0a95b53ebe98466064bfc9390b9f962107ca91d525abe1a2230.ctv
+DISCOVERY HD WORLD,https://epg.pw/stream/ae4204e65edfa668722a4ba15a92e8e86a4e456a521508d30506fa06890a1056.ctv
+DISCOVERY HD WORLD[geo-blocked],https://epg.pw/stream/2134a90624ac455d7fefca7781424cbfd148afb80d43953889df529a18a30691.ctv
+Love Nature,https://epg.pw/stream/d68bfc9eb32498e93b30a24e54b83ea4f314d5395b897f21953f0a5fdce53cfb.ctv
+Love Nature,https://epg.pw/stream/79a1e20ca0a998f4e16a902c8894cb57584bbcfc67136570cee16f3c43ab444a.m3u8
+Love Nature,https://epg.pw/stream/ba34d9cde3c319ffe61ceeae9a97b9c61a2d82805525f841e48e7916f09e433e.ctv
+Love Nature,https://epg.pw/stream/01757667d08b3b8a1585c7d7ac14927666dcb263675d62d5eeb8eef133e5f803.m3u8
+Love Nature[geo-blocked],https://epg.pw/stream/9849db79ba9453aafd688291b568d30594427d9643a4bd729c9979b7a78c5abd.m3u8
+Love Nature[geo-blocked],https://epg.pw/stream/541de6c31550b182baac3e3ebd1634e8017f318c8915e88f2bc93a7ce51d2054.m3u8
+Love Nature[geo-blocked],https://epg.pw/stream/b1eec72e9e13ef72588a2548ba4b4b4e6f58c0efb264ab2185a7c05c3232dd1c.ctv
+Love Nature,https://epg.pw/stream/41e462a03bdf42bd07c0d9f5f58285ca8cdb473753e2a76e76d4526dcd0fa0ef.ctv
+Love Nature[geo-blocked],https://epg.pw/stream/bdd00d3c04806767b570fd139816d16934e76a84e2a649b4d3bc64cb8ca3b2da.ctv
+Love Nature,https://epg.pw/stream/92df452a0fd63094b2b94f01f37a5a46960e9ad03ea4c2d76212de6fe64c486f.ctv
+Love Nature,https://epg.pw/stream/59a775f903dae7106d207f628213a59aa6288e6d60e9e77878ad9179e2d1590b.m3u8
+Love Nature[geo-blocked],https://epg.pw/stream/a7785efacfc2c8b4ad7e5385aace3c29bca97ca07fc116e0ca8453daba8c0c7a.m3u8
+Love Nature[geo-blocked],https://epg.pw/stream/1b8069596246a1a76c297f51aa1addec6c69699a2ced596329c49a339812ec89.m3u8
+Love Nature,https://epg.pw/stream/345e1fdc150684196406f401744db3e014300ee05b64f808af2ce7f9e28bea52.m3u8
+Love Nature,https://epg.pw/stream/742e044d84d83e145c05c64390c0894190e30d1425fa264b4bb72e700a15eb53.m3u8
+綜藝,#genre#
+CMusic,https://epg.pw/stream/22907ccbc5a1bccd0d1d75687bad4764480ed4ca9be899ad53a45cd9ef3b5a1a.m3u8
+JET綜合臺,https://epg.pw/stream/fcf42d71e90b6936cc7c1789efc88576bad9cf2bd812f53c36ef7d012e53b7c3.m3u8
+ROCK Entertainment[geo-blocked],https://epg.pw/stream/4597c3f3114c62259db0408371f92265125354c3006fe3040d0208aae223c1b2.m3u8
+ROCK Entertainment[geo-blocked],https://epg.pw/stream/a0a54daf39539c0bf8e2751e1f1ac44247e9d5aa23f3bd84469a9ddcd21b14af.m3u8
+三立都會,https://epg.pw/stream/8a6ac80e5b0561fed852484cd5d35167cb53ec1377290ba58fc3aad57dcb3cc8.m3u8
+三立都會[geo-blocked],https://epg.pw/stream/d21f8d5202133eda2315bd4e7359209708b513f72bca85ffa82427371a178592.m3u8
+三立都會[geo-blocked],https://epg.pw/stream/fca113becfb9f93e367efdb7568570118c3e235090af855ef1765906e3aab696.m3u8
+三立都會[geo-blocked],https://epg.pw/stream/be38f112f8b52bcaa1b05b9665f03285ee2c7cc21e6e4147597d19452a5e92ce.m3u8
+國家地理頻道[geo-blocked],https://epg.pw/stream/4d9e764c6da0240811c568375379e574e36aa2d859e2597e27e7fb11c47a267a.m3u8
+國家地理頻道[geo-blocked],https://epg.pw/stream/fc0287daf8043a40fa0761d7e0c2cc07338f43055a9292f95aaa43c99c27e458.m3u8
+國家地理頻道[geo-blocked],https://epg.pw/stream/61711015545fc4dbbd2c7300459a5ed0c429a82752664af8c4805d7690ca540c.m3u8
+國家地理頻道,https://epg.pw/stream/f5f535890c407171d1b9321d1e62df30551f51376413645527ec8fd20719fa5c.m3u8
+國家地理頻道[geo-blocked],https://epg.pw/stream/d2a711a7c217fbc3af105a6289fc201be81146dacabdae0cec6862339929b98d.m3u8
+民視綜藝臺[geo-blocked],https://epg.pw/stream/1cd35232eeb45b4031d39ae017db2929de078b936098d2703efc5d0a13bc31e8.ctv
+民視綜藝臺[geo-blocked],https://epg.pw/stream/664abee17926ff2eb34b89d6b85343d44875fa0413f897372bf5bc6360382c83.ctv
+緯來日本,rtmp://219.80.97.77/sat/tv771
+緯來日本,rtmp://119.81.124.89/sat/tv771
+緯來日本,rtmp://219.80.97.77/sat/tv771
+綜合,#genre#
+MOMO綜合臺,rtmp://219.80.97.77/sat/tv761
+MOMO綜合臺,rtmp://219.80.97.77/sat/tv761
+MOMO綜合臺,rtmp://119.81.124.89/sat/tv761
+TVBS FHD,https://epg.pw/stream/f2e6d6859a5b6f3f650cb5db381b8244a0e6d3c06ce11efc79a0ae6b82e00357.ctv
+TVBS FHD,https://epg.pw/stream/182698df852f7bbaf34c5f2df62ad0b80bada2ee731a60e976ef20ac5055aa39.ctv

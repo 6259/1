@@ -1,3 +1,31 @@
+🎻 港台，#genre#
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+三立iNEW+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+台視新聞,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+鏡新聞Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+寰宇國際新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+中天新聞,https://tv.iill.top/youtube/oIgbl7t0S_w
+中天新聞2,https://tv.iill.top/youtube/WPfPjbOLNfE
+TVBS新聞,https://tv.iill.top/youtube/m_dhMSvUCIc
+東森財經新聞,https://tv.iill.top/youtube/WHEPzbFA3hw
+台視新聞,https://tv.iill.top/youtube/xL0ch83RAK8
+中視新聞,https://tv.iill.top/youtube/TCnaIE_SAtM
+台視,https://tv.iill.top/youtube/uDqQo8a7Xmk
+公視,https://tv.iill.top/youtube/C6gYqSHLRw4
+三立inews,https://tv.iill.top/youtube/CKjSm5ZeehE
+民視新聞台,https://tv.iill.top/youtube/ylYJSBUgaMA
+鏡新聞,https://tv.iill.top/youtube/5n0y6b0Q25o
+日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 🎻 DJ 歌曲,#genre#
 🔥公众号🔥,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
 星河科技园,https://vd4.bdstatic.com/mda-ndh6iph1cjnpbx5v/1080p/cae_h264_delogo/1650258726083919516/mda-ndh6iph1cjnpbx5v.mp4

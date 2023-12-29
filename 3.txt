@@ -59,8 +59,8 @@ TVBS，http：//50.7.61.148：30080/Entry/tvbs，mitv：//ns2.hellotvvod.com：9
 東森財經新聞台，http://seb.sason.top/sc/dscjxw_fhd.m3u8,mitv://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
 非凡財經新聞台，http://50.7.61.147:30080/Entry/ubnbus
 寰宇新聞台，http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8,mitv://ns2.hellotvvod.com:9906/7a095cbbff944242bd359bb0f32ac5f2,mitv://ns2.hellotvvod.com:9906/b6a355771a7e4b469684732040c522f7
-衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
-東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
+衛視電影台，mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
+東森電影台，mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
 龍祥電影,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
 HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d,http://50.7.61.148:30080/Entry/hbo,https://gratismkctv.net/film/hbo.m3u8
